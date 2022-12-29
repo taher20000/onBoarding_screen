@@ -165,7 +165,7 @@ class _OnBoardingScreenState extends State<OnBoardingScreen> {
                                 style: ElevatedButton.styleFrom(
                                   backgroundColor: Colors.black,
                                   shape: RoundedRectangleBorder(
-                                    borderRadius: BorderRadius.circular(50),
+                                    borderRadius: BorderRadius.circular(100),
                                   ),
                                   elevation: 0,
                                   padding: (width <= 550)
